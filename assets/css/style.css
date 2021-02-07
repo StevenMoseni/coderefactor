@@ -69,13 +69,13 @@ p {
     margin-left: 25px;
 }
 
-.content {
+.main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
-.benefits {
+/* changed this class to aside */
+.aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -187,7 +187,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* changed this class to "footer" */
 .footer {
     padding: 30px;
     clear: both;
